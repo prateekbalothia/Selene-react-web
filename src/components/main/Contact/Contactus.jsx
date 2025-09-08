@@ -4,7 +4,7 @@ import { data } from "react-router-dom";
 
 export default function Contactus() {
     const [userdata, setUserdata] = useState({
-        name: null,
+        name: "null",
         email: null,
         subject: null,
         message: null

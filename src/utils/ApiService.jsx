@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const constanturl = "http://10.162.67.117:4500/api/web/";
+const constanturl = "http://10.232.177.14:4500/api/web/";
 
 const client = axios.create({
     baseURL: constanturl,
